@@ -1,0 +1,56 @@
+$primary-color: #007bff;
+$secondary-color: #6c757d;
+
+@mixin font($size, $weight: normal, $line-height: normal){
+    font-size: $size;
+    font-weight: $weight;
+    line-height: $line-height;
+}
+
+@mixin box-shadow($x: 0, $y: 2px, $blur: 4px, $color: rgba(0,0,0,0.2)){
+    box-shadow: $x $y $blur $color;
+}
+
+@mixin button($background, $color){
+    background-color: $background;
+    color: $color;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+
+    &:hover {
+        background-color: darken($background, 10%);
+    }
+}
+
+.html-header {
+    background-color: $primary-color;
+    color: white;
+  }
+  
+  .html-content {
+    word-wrap: break-word;
+    background-color: $secondary-color;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .markdown-editor {
+    background-color: $secondary-color;
+    padding: 20px;
+    border-radius: 5px;
+    word-wrap: break-word;
+  }
+  
+.body {
+    background-color: $primary-color;
+    margin: 0;
+}
+
+div.card-header{
+    background-color: #007bff !important; 
+    padding: 0; 
+    margin: 0; 
+    border-radius: 0; 
+}
