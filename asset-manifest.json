@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/FCC-Markdown-Previewer/static/css/main.9ba32066.css",
+    "main.css": "/FCC-Markdown-Previewer/static/css/main.252d7d83.css",
     "main.js": "/FCC-Markdown-Previewer/static/js/main.eb3f3535.js",
     "static/js/787.86f49a3a.chunk.js": "/FCC-Markdown-Previewer/static/js/787.86f49a3a.chunk.js",
     "static/media/fa-solid-900.ttf": "/FCC-Markdown-Previewer/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
@@ -12,12 +12,12 @@
     "static/media/fa-v4compatibility.ttf": "/FCC-Markdown-Previewer/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
     "static/media/fa-v4compatibility.woff2": "/FCC-Markdown-Previewer/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
     "index.html": "/FCC-Markdown-Previewer/index.html",
-    "main.9ba32066.css.map": "/FCC-Markdown-Previewer/static/css/main.9ba32066.css.map",
+    "main.252d7d83.css.map": "/FCC-Markdown-Previewer/static/css/main.252d7d83.css.map",
     "main.eb3f3535.js.map": "/FCC-Markdown-Previewer/static/js/main.eb3f3535.js.map",
     "787.86f49a3a.chunk.js.map": "/FCC-Markdown-Previewer/static/js/787.86f49a3a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9ba32066.css",
+    "static/css/main.252d7d83.css",
     "static/js/main.eb3f3535.js"
   ]
 }
